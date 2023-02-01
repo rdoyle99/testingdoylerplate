@@ -10,7 +10,7 @@
     "@headlessui/react": "^1.4.2",
     "@heroicons/react": "^1.0.5",
     "@next-auth/mongodb-adapter": "^0.0.2-next.298",
-    "@sentry/nextjs": "^6.16.1",
+    "@sentry/nextjs": "^7.34.0",
     "@stripe/stripe-js": "^1.21.1",
     "mongodb": "^4.2.0",
     "mongoose": "^6.0.13",
